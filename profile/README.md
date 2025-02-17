@@ -1,16 +1,9 @@
-# steig
-
-**Transforming Businesses with Observable AI Solutions.**
-
----
 
 Welcome to the GitHub organization for steig!
 
 We help businesses of all sizes **ascend to new heights** by leveraging the power of **observable AI**.  We cut through the hype and deliver practical, results-driven AI solutions that are transparent, understandable, and deliver real business value.
 
 Our approach is grounded in expertise from highly regulated industries and extensive engineering experience. We focus on building solutions that not only work but are also **observable** – meaning you can understand *how* they work and measure their impact on your business
-
----
 
 ## Our Key Services
 
